@@ -483,7 +483,7 @@ a:focus {
 }
 
 .about_section {
-  background-color: #00204a;
+  background-color: #1a3c5f;
   color: #ffffff;
 }
 
@@ -511,7 +511,7 @@ a:focus {
 
 .about_section .detail-box a {
   display: inline-block;
-  padding: 10px 45px;
+  padding: 12px 45px;
   background-color: #00bbf0;
   color: #ffffff;
   border-radius: 0px;
